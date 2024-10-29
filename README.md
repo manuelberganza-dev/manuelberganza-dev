@@ -1,16 +1,25 @@
-## Perfil en proceso... 👋
+# 👋 ¡Hola! mi nombre es Manuel Berganza
 
-<!--
-**manuelberganza-dev/manuelberganza-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy programador Backend apasionado por crear soluciones con **Java**, **Spring**, **MySQL** y **Python**, enfocado en construir API-REST y sistemas completos con bases de datos MySQL. Aquí encontrarás mis proyectos personales, notas de programación y algo de teoría aplicada. ¡Bienvenido a mi repositorio! 🚀
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tecnologías y Herramientas
+- **Backend**: Java, Spring (Boot y MVC)
+- **Bases de Datos**: MySQL
+- **Frontend**: HTML, CSS, Tailwind, JavaScript
+- **Automatización y Scripts**: Python
+
+---
+
+### 📫 Contacto
+- **LinkedIn**: [Tu LinkedIn](enlace_a_linkedin)
+
+---
+
+### 📈 Estadísticas de GitHub
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=manuelberganza-dev&show_icons=true&theme=radical)
+
+---
+
+"Si tienes una idea o proyecto en mente, ¡hablemos! Estoy abierto a colaborar en nuevas oportunidades y desafíos en el desarrollo de software."
