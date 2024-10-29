@@ -14,9 +14,3 @@ Soy programador Backend apasionado por crear soluciones con **Java**, **Spring**
 ### 📫 Contacto
 - **LinkedIn**: [Manuel Berganza](https://www.linkedin.com/in/manuel-berganza/)
 - **X**: [@manuelberganza_](https://x.com/manuelberganza_)
-
----
-
-### 📈 Estadísticas de GitHub
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=manuelberganza-dev&show_icons=true&theme=radical)
-
