@@ -1,6 +1,6 @@
 # 👋 ¡Hola! mi nombre es Manuel Berganza
 
-Soy programador Backend apasionado por crear soluciones con **Java**, **Spring**, **MySQL**, enfocado en construir sistemas completos con bases de datos MySQL y API-REST. Aquí encontrarás mis proyectos personales, notas de programación y algo de teoría aplicada. ¡Bienvenido a mi repositorio! 🚀
+Soy programador Backend apasionado por crear aplicaciones con **Java**, **Spring**, **MySQL**, enfocado en construir sistemas completos con bases de datos MySQL o API-REST. Aquí encontrarás algunos de mis proyectos personales, notas de programación y algo de teoría aplicada. ¡Bienvenidos a mi repositorio de Github! 🚀👓
 
 ---
 
