@@ -13,4 +13,3 @@ Soy programador Backend apasionado por crear aplicaciones con **Java**, **Spring
 
 ### 📫 Contacto
 - **LinkedIn**: [Manuel Berganza](https://www.linkedin.com/in/manuel-berganza/)
-- **X**: [@manuelberganza_](https://x.com/manuelberganza_)
